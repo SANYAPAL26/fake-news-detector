@@ -1,3 +1,7 @@
+import os
+
+if not os.path.exists("model.pkl"):
+    import train_model
 import streamlit as st
 import pickle
 import re
