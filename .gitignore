@@ -1,0 +1,5 @@
+Fake.csv
+True.csv
+vectorizer.pkl
+model.pkl
+.venv/
