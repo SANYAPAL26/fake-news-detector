@@ -20,3 +20,6 @@ This project detects whether news is real or fake using Machine Learning.
 
 ## ⚠️ Note
 Dataset and model files are not included due to size limits.
+## 📸 Project Screenshot
+
+![App Screenshot](screenshot.jpg)
